@@ -26,6 +26,6 @@ python main.py
 ## Result
 save file (txt / csv)
 ```bash
-result_example -> hash.txt, test.csv
+result_example -> hash.txt, test.csv 
 ```
 
